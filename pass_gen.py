@@ -21,4 +21,4 @@ def generate_password(length: int, symbols: bool, uppercase: bool ):
     return new_password
 
 for _, index in enumerate(range(5)):
-    print(index+1, ":", generate_password(length=10, symbols=False, uppercase=True))
+    print(index+1, ":","ilove"+ generate_password(length=10, symbols=True, uppercase=True))
