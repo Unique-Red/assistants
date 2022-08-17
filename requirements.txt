@@ -1,0 +1,4 @@
+opencv-python==4.6.0.66
+pywhatkit==5.3
+pyttsx3==2.90
+PyPDF2==1.26.0
